@@ -1,0 +1,20 @@
+{
+	"version": "1.0",
+	"session": {
+		"new": true,
+		"sessionId": "amzn1.echo-api.session.7817ccb0-bf5b-4397-b53f-1338fdfa88fe",
+		"application": {
+			"applicationId": "my_application_id"
+		},
+		"user": {
+			"userId": "my_user_id"
+		}
+	},
+	"request": {
+		"type": "LaunchRequest",
+		"requestId": "amzn1.echo-api.request.c96fa1e2-1aeb-4d06-b042-5372f873644d",
+		"timestamp": "2019-02-17T20:56:09Z",
+		"locale": "en-US",
+		"shouldLinkResultBeReturned": false
+	}
+}
