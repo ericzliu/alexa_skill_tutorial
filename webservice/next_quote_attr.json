@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "session": {
+    "new": true,
+    "sessionId": "amzn1.echo-api.session.f9e2fd24-9511-437a-ab6d-4be53f84836b",
+    "application": {
+      "applicationId": "my_application"
+    },
+    "user": {
+      "userId": "my_user_id"
+    },
+    "attributes" : {
+      "quote_intent": true
+    }
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "amzn1.echo-api.request.c13c39f2-d4c6-4121-a020-2b8f95db696a",
+    "timestamp": "2019-02-17T19:42:32Z",
+    "locale": "en-US",
+    "intent": {
+      "name": "NextQuoteIntent",
+      "confirmationStatus": "NONE"
+    }
+  }
+}
